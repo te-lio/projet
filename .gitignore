@@ -46,4 +46,10 @@ bower_components
 
 #Project specififc
 ######
+
 live
+=======
+live
+src/css
+src/css/*
+js/vendor.js
