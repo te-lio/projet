@@ -1,0 +1,23 @@
+{
+  "name": "",
+  "version": "0.0.1",
+  "license": "UNLICENSED",
+  "author": "",
+  "description": "",
+  "private": true,
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-uglify": "1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-eslint": "^19.0.0",
+    "grunt-focus": "1.0.0",
+    "grunt-sass": "^2.0.0",
+    "http-rewrite-middleware": "0.1.6",
+    "load-grunt-config": "^0.19.2",
+    "serve-static": "1.10.2"
+  }
+}
