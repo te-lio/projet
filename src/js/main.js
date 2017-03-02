@@ -12,7 +12,7 @@ function clickAction(event){
 function closeMenu(event){
 	event.preventDefault();
 	var $elem = $(this);
-	var $menuContainer = $('.menu').closest('aside');
+	var $menuContainer = $('.menu').closest('#wrapper');
 	if (! $menuContainer.hasClass('closed')){
 		$menuContainer.addClass('closed')
 		$elem.text('>')
